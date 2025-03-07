@@ -1,7 +1,7 @@
 
 # Recipe Finder App
 
-The Recipe Finder App is a full-stack mobile application built with Flutter and Supabase. It allows users to search for recipes based on cuisine, diet, and cooking time, save their favorite recipes, and view detailed information about each recipe. The app integrates with the Spoonacular API to fetch recipe data and uses Supabase for user authentication and database management.
+The Recipe Finder App is a full-stack mobile application built with Flutter and Express.js. It allows users to search for recipes based on cuisine, diet, and cooking time, save their favorite recipes, and view detailed information about each recipe. The app integrates with the Spoonacular API to fetch recipe data and uses Supabase for user authentication and database management.
 
 This project was made during the Fall 2024 Accelerator Hackathon for the Rutgers Mobile App Development Club.
 ## Features
